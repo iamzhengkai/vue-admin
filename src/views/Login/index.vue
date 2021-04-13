@@ -1,18 +1,12 @@
 <template>
-  <div id="app">
-    {{ message }}
-  </div>
+ <div>
+   Hello Vue
+ </div>
 </template>
 
 <script>
-const app = {
-  el: '#app',
-  data() {
-    return {
-      message: 'Hello Vue'
-    }
-  }
-}
+
+
 </script>
 
 <style>
